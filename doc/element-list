@@ -1,0 +1,16 @@
+fr.kizafox.metropolisgun
+fr.kizafox.metropolisgun.managers
+fr.kizafox.metropolisgun.managers.commands
+fr.kizafox.metropolisgun.managers.listeners
+fr.kizafox.metropolisgun.tools
+fr.kizafox.metropolisgun.tools.game
+fr.kizafox.metropolisgun.tools.game.listeners
+fr.kizafox.metropolisgun.tools.game.weapons.guns
+fr.kizafox.metropolisgun.tools.game.weapons.guns.storage
+fr.kizafox.metropolisgun.tools.game.weapons.guns.storage.pistol
+fr.kizafox.metropolisgun.tools.game.weapons.knifes
+fr.kizafox.metropolisgun.tools.game.weapons.knifes.storage
+fr.kizafox.metropolisgun.tools.game.weapons.knifes.storage.defaultknifes
+fr.kizafox.metropolisgun.tools.game.weapons.utils
+fr.kizafox.metropolisgun.tools.game.weapons.utils.storage
+fr.kizafox.metropolisgun.tools.handlers
